@@ -30,7 +30,7 @@ Modpack: A collection of mods and configuration files pre-tested to work when in
 --------
 
 The present license is granted to any user of the mod. As a prerequisite, to play
-a user must own a legally acquired copy of Minecraft
+a user must own a legally acquired copy of Minecraft.
 
 2. Liability
 ------------
