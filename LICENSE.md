@@ -6,7 +6,7 @@ Version 2.0.2
 0. Definitions
 --------------
 
-**Game**: Computer software which provides diversion or amusement. Often a form of play. 
+**Game**: Computer software which provides diversion or amusement; Often a form of play. 
 
 **Mod**: Software which modifies the Game, in any form (source, compiled binary, etc).
 
